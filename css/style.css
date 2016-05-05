@@ -1,0 +1,66 @@
+header {
+  background-image: url(../Template/assets/header.jpg);
+  background-size: cover;
+  width: 100%;
+  height: 800px; }
+  header .noradius {
+    border-radius: 0px; }
+  header h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 80px;
+    font-weight: 600;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: -2px; }
+  header hr {
+    width: 80px;
+    background: #f05f40;
+    height: 4px;
+    border-top: 0px;
+    margin-top: 37px; }
+  header p {
+    font-family: 'Lora', serif;
+    color: white;
+    font-size: 19px;
+    margin-top: 21px; }
+  header .btn-danger {
+    border-radius: 46px;
+    text-transform: uppercase;
+    padding: 19px 47px;
+    background-color: #f05f40;
+    font-weight: 600;
+    margin-top: 60px; }
+
+.text-banner {
+  padding: 80px 0; }
+
+.sectwo {
+  background-color: #f05f40;
+  padding: 60px 0px; }
+  .sectwo h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 32px;
+    color: white;
+    text-align: center; }
+  .sectwo hr {
+    width: 80px;
+    background: white;
+    height: 4px;
+    border-top: 0px;
+    margin-top: 37px; }
+  .sectwo p {
+    font-family: 'Lora', serif;
+    color: white;
+    font-size: 19px;
+    margin-top: 21px;
+    text-align: center; }
+  .sectwo .btn-danger {
+    border-radius: 46px;
+    text-transform: uppercase;
+    padding: 19px 47px;
+    background-color: white;
+    font-weight: 600;
+    margin-top: 60px;
+    color: white; }
+
+/*# sourceMappingURL=style.css.map */
